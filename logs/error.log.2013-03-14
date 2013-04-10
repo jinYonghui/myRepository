@@ -1,0 +1,45 @@
+<2013-03-14 13:30:08> <main> com.client.pushclient.push(pushclient.java:49) 
+<ERROR> 消息推送异常...For input string: "IP"
+
+<2013-03-14 13:31:31> <main> com.client.pushclient.push(pushclient.java:49) 
+<ERROR> 消息推送异常...For input string: "IP"
+
+<2013-03-14 13:58:46> <main> com.client.pushclient.push(pushclient.java:50) 
+<ERROR> 消息推送异常.....\tmp\jinyh_dev.p12 (The system cannot find the path specified)
+
+<2013-03-14 14:12:53> <main> com.client.pushclient.push(pushclient.java:50) 
+<ERROR> 消息推送异常...null
+
+<2013-03-14 14:13:18> <main> com.client.pushclient.push(pushclient.java:50) 
+<ERROR> 消息推送异常...null
+
+<2013-03-14 14:13:37> <main> com.client.pushclient.push(pushclient.java:50) 
+<ERROR> 消息推送异常...null
+
+<2013-03-14 17:11:10> <main> com.client.pushclient.push(pushclient.java:62) 
+<ERROR> 消息推送异常...null
+
+<2013-03-14 17:11:10> <main> com.client.pushclient.push(pushclient.java:62) 
+<ERROR> 消息推送异常...null
+
+<2013-03-14 17:11:10> <main> com.client.pushclient.push(pushclient.java:62) 
+<ERROR> 消息推送异常...null
+
+<2013-03-14 17:13:48> <main> com.client.pushclient.push(pushclient.java:62) 
+<ERROR> 消息推送异常...null
+
+<2013-03-14 17:13:48> <main> com.client.pushclient.push(pushclient.java:62) 
+<ERROR> 消息推送异常...null
+
+<2013-03-14 17:13:48> <main> com.client.pushclient.push(pushclient.java:62) 
+<ERROR> 消息推送异常...null
+
+<2013-03-14 17:15:05> <main> com.client.pushclient.push(pushclient.java:63) 
+<ERROR> 消息推送异常...null
+
+<2013-03-14 17:15:05> <main> com.client.pushclient.push(pushclient.java:63) 
+<ERROR> 消息推送异常...null
+
+<2013-03-14 17:15:05> <main> com.client.pushclient.push(pushclient.java:63) 
+<ERROR> 消息推送异常...null
+

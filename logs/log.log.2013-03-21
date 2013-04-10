@@ -1,0 +1,18 @@
+<2013-03-21 16:08:39> <main> com.client.pushclient.push(pushclient.java:72) 
+<INFO> 消息发送完成，记录
+
+<2013-03-21 16:08:39> <main> com.client.pushclient.push(pushclient.java:77) 
+<ERROR> 消息推送异常...null
+
+<2013-03-21 16:08:39> <main> com.client.pushclient.push(pushclient.java:77) 
+<ERROR> 消息推送异常...null
+
+<2013-03-21 16:09:59> <main> com.client.pushclient.push(pushclient.java:83) 
+<INFO> 消息发送完成
+
+<2013-03-21 16:09:59> <main> com.client.pushclient.push(pushclient.java:83) 
+<INFO> 消息发送完成
+
+<2013-03-21 16:09:59> <main> com.client.pushclient.push(pushclient.java:83) 
+<INFO> 消息发送完成
+

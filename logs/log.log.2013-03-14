@@ -1,0 +1,165 @@
+<2013-03-14 08:54:18> <main> com.client.pushclient.push(pushclient.java:65) 
+<INFO> 消息发送完成，记录：失败条数=0; 
+
+<2013-03-14 09:09:28> <main> com.client.pushclient.push(pushclient.java:64) 
+<INFO> 消息发送完成，记录：失败条数=0; 
+
+<2013-03-14 10:14:20> <main> com.client.pushclient.push(pushclient.java:65) 
+<INFO> 消息发送完成，记录：失败条数=0; 
+
+<2013-03-14 13:24:55> <main> com.client.pushclient.push(pushclient.java:43) 
+<INFO> 消息发送完成，记录
+
+<2013-03-14 13:30:08> <main> com.client.pushclient.push(pushclient.java:49) 
+<ERROR> 消息推送异常...For input string: "IP"
+
+<2013-03-14 13:31:31> <main> com.client.pushclient.push(pushclient.java:49) 
+<ERROR> 消息推送异常...For input string: "IP"
+
+<2013-03-14 13:33:18> <main> com.client.pushclient.push(pushclient.java:45) 
+<INFO> 消息发送完成，记录
+
+<2013-03-14 13:38:16> <main> com.client.pushclient.push(pushclient.java:45) 
+<INFO> 消息发送完成，记录
+
+<2013-03-14 13:38:34> <main> com.client.pushclient.push(pushclient.java:45) 
+<INFO> 消息发送完成，记录
+
+<2013-03-14 13:39:03> <main> com.client.pushclient.push(pushclient.java:45) 
+<INFO> 消息发送完成，记录
+
+<2013-03-14 13:39:05> <main> com.client.pushclient.push(pushclient.java:45) 
+<INFO> 消息发送完成，记录
+
+<2013-03-14 13:39:39> <main> com.client.pushclient.push(pushclient.java:45) 
+<INFO> 消息发送完成，记录
+
+<2013-03-14 13:46:58> <main> com.client.pushclient.push(pushclient.java:45) 
+<INFO> 消息发送完成，记录
+
+<2013-03-14 13:50:00> <main> com.client.pushclient.push(pushclient.java:45) 
+<INFO> 消息发送完成，记录
+
+<2013-03-14 13:58:46> <main> com.client.pushclient.push(pushclient.java:50) 
+<ERROR> 消息推送异常.....\tmp\jinyh_dev.p12 (The system cannot find the path specified)
+
+<2013-03-14 13:59:12> <main> com.client.pushclient.push(pushclient.java:45) 
+<INFO> 消息发送完成，记录
+
+<2013-03-14 14:00:17> <main> com.client.pushclient.push(pushclient.java:45) 
+<INFO> 消息发送完成，记录
+
+<2013-03-14 14:11:29> <main> com.client.pushclient.push(pushclient.java:45) 
+<INFO> 消息发送完成，记录
+
+<2013-03-14 14:12:53> <main> com.client.pushclient.push(pushclient.java:50) 
+<ERROR> 消息推送异常...null
+
+<2013-03-14 14:13:18> <main> com.client.pushclient.push(pushclient.java:50) 
+<ERROR> 消息推送异常...null
+
+<2013-03-14 14:13:37> <main> com.client.pushclient.push(pushclient.java:50) 
+<ERROR> 消息推送异常...null
+
+<2013-03-14 14:14:24> <main> com.client.pushclient.push(pushclient.java:45) 
+<INFO> 消息发送完成，记录
+
+<2013-03-14 14:39:52> <main> com.client.pushclient.push(pushclient.java:45) 
+<INFO> 消息发送完成，记录
+
+<2013-03-14 14:42:52> <main> com.client.pushclient.push(pushclient.java:45) 
+<INFO> 消息发送完成，记录
+
+<2013-03-14 15:23:45> <main> com.client.pushclient.push(pushclient.java:53) 
+<INFO> 消息发送完成，记录
+
+<2013-03-14 15:25:02> <main> com.client.pushclient.push(pushclient.java:53) 
+<INFO> 消息发送完成，记录
+
+<2013-03-14 15:44:04> <main> com.client.pushclient.push(pushclient.java:53) 
+<INFO> 消息发送完成，记录
+
+<2013-03-14 15:52:17> <main> com.client.pushclient.push(pushclient.java:53) 
+<INFO> 消息发送完成，记录
+
+<2013-03-14 16:00:25> <main> com.client.pushclient.push(pushclient.java:55) 
+<INFO> 消息发送完成，记录
+
+<2013-03-14 16:01:30> <main> com.client.pushclient.push(pushclient.java:56) 
+<INFO> 消息发送完成，记录
+
+<2013-03-14 16:01:59> <main> com.client.pushclient.push(pushclient.java:56) 
+<INFO> 消息发送完成，记录
+
+<2013-03-14 16:02:24> <main> com.client.pushclient.push(pushclient.java:56) 
+<INFO> 消息发送完成，记录
+
+<2013-03-14 16:03:49> <main> com.client.pushclient.push(pushclient.java:56) 
+<INFO> 消息发送完成，记录
+
+<2013-03-14 16:05:53> <main> com.client.pushclient.push(pushclient.java:54) 
+<INFO> 消息发送完成，记录
+
+<2013-03-14 16:09:31> <main> com.client.pushclient.push(pushclient.java:55) 
+<INFO> 消息发送完成，记录
+
+<2013-03-14 16:13:16> <main> com.client.pushclient.push(pushclient.java:53) 
+<INFO> 消息发送完成，记录
+
+<2013-03-14 16:14:09> <main> com.client.pushclient.push(pushclient.java:53) 
+<INFO> 消息发送完成，记录
+
+<2013-03-14 16:16:41> <main> com.client.pushclient.push(pushclient.java:53) 
+<INFO> 消息发送完成，记录
+
+<2013-03-14 16:20:46> <main> com.client.pushclient.push(pushclient.java:53) 
+<INFO> 消息发送完成，记录
+
+<2013-03-14 16:22:14> <main> com.client.pushclient.push(pushclient.java:53) 
+<INFO> 消息发送完成，记录
+
+<2013-03-14 16:37:33> <main> com.client.pushclient.push(pushclient.java:53) 
+<INFO> 消息发送完成，记录
+
+<2013-03-14 16:43:14> <main> com.client.pushclient.push(pushclient.java:53) 
+<INFO> 消息发送完成，记录
+
+<2013-03-14 16:49:56> <main> com.client.pushclient.push(pushclient.java:53) 
+<INFO> 消息发送完成，记录
+
+<2013-03-14 17:11:10> <main> com.client.pushclient.push(pushclient.java:57) 
+<INFO> 消息发送完成，记录
+
+<2013-03-14 17:11:10> <main> com.client.pushclient.push(pushclient.java:62) 
+<ERROR> 消息推送异常...null
+
+<2013-03-14 17:11:10> <main> com.client.pushclient.push(pushclient.java:62) 
+<ERROR> 消息推送异常...null
+
+<2013-03-14 17:11:10> <main> com.client.pushclient.push(pushclient.java:62) 
+<ERROR> 消息推送异常...null
+
+<2013-03-14 17:13:48> <main> com.client.pushclient.push(pushclient.java:57) 
+<INFO> 消息发送完成，记录
+
+<2013-03-14 17:13:48> <main> com.client.pushclient.push(pushclient.java:62) 
+<ERROR> 消息推送异常...null
+
+<2013-03-14 17:13:48> <main> com.client.pushclient.push(pushclient.java:62) 
+<ERROR> 消息推送异常...null
+
+<2013-03-14 17:13:48> <main> com.client.pushclient.push(pushclient.java:62) 
+<ERROR> 消息推送异常...null
+
+<2013-03-14 17:15:05> <main> com.client.pushclient.push(pushclient.java:58) 
+<INFO> 消息发送完成，记录
+
+<2013-03-14 17:15:05> <main> com.client.pushclient.push(pushclient.java:63) 
+<ERROR> 消息推送异常...null
+
+<2013-03-14 17:15:05> <main> com.client.pushclient.push(pushclient.java:63) 
+<ERROR> 消息推送异常...null
+
+<2013-03-14 17:15:05> <main> com.client.pushclient.push(pushclient.java:63) 
+<ERROR> 消息推送异常...null
+

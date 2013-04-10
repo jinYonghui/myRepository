@@ -1,0 +1,15 @@
+<2013-03-18 16:52:20> <main> com.client.pushclient.push(pushclient.java:81) 
+<INFO> 消息发送完成，记录
+
+<2013-03-18 16:52:20> <main> javapns.back.PushNotificationManager.sendNotification(?:?) 
+<INFO> Attempt failed... trying again
+
+<2013-03-18 16:52:31> <main> com.client.pushclient.push(pushclient.java:81) 
+<INFO> 消息发送完成，记录
+
+<2013-03-18 16:52:31> <main> javapns.back.PushNotificationManager.sendNotification(?:?) 
+<INFO> Attempt failed... trying again
+
+<2013-03-18 16:52:36> <main> com.client.pushclient.push(pushclient.java:81) 
+<INFO> 消息发送完成，记录
+

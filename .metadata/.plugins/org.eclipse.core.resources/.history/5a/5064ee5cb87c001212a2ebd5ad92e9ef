@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+	android:layout_height="wrap_content"
+	android:orientation="vertical"
+    >
+<PreferenceScreen
+        android:key="button_voicemail_category_key"
+        android:title="@string/voicemail"
+        android:persistent="false">
+    <CheckBoxPreference
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:defaultValue="true"
+        android:key="pref_sync"
+        android:summary="@string/pref_sync_summ"
+        android:title="@string/pref_sync" />
+
+    <ListPreference
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:dependency="pref_sync"
+        android:key="pref_syncConnectionType"
+        android:title="@string/pref_syncConnectionType"
+        android:dialogTitle="@string/pref_syncConnectionType"
+        android:entries="@array/pref_syncConnectionTypes_entries"
+        android:entryValues="@array/pref_syncConnectionTypes_values"
+        android:defaultValue="@string/pref_syncConnectionTypes_default" />
+   </PreferenceScreen>
+</LinearLayout>

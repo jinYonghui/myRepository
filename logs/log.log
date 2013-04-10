@@ -1,0 +1,54 @@
+<2013-04-02 11:22:46> <main> com.client.pushclient.push(pushclient.java:72) 
+<INFO> 消息发送完成，记录
+
+<2013-04-02 11:23:00> <main> com.client.pushclient.push(pushclient.java:88) 
+<ERROR> 消息推送异常...null
+45762be5d7ccca4bd945cdd0246d9e024a30a11b97bf36d936fcf6d19f5d904a
+
+<2013-04-02 11:23:45> <main> com.client.pushclient.push(pushclient.java:72) 
+<INFO> 消息发送完成，记录
+
+<2013-04-02 11:23:45> <main> com.client.pushclient.push(pushclient.java:77) 
+<ERROR> 消息推送异常...null
+
+<2013-04-02 11:23:45> <main> com.client.pushclient.push(pushclient.java:77) 
+<ERROR> 消息推送异常...null
+
+<2013-04-02 11:26:14> <main> com.client.pushclient.push(pushclient.java:83) 
+<INFO> 消息发送完成
+
+<2013-04-02 11:26:14> <main> com.client.pushclient.push(pushclient.java:83) 
+<INFO> 消息发送完成
+
+<2013-04-02 11:26:14> <main> com.client.pushclient.push(pushclient.java:83) 
+<INFO> 消息发送完成
+
+<2013-04-02 11:26:34> <main> com.client.pushclient.push(pushclient.java:88) 
+<ERROR> 消息推送异常...null
+45762be5d7ccca4bd945cdd0246d9e024a30a11b97bf36d936fcf6d19f5d904a
+
+<2013-04-02 11:29:05> <main> com.client.pushclient.push(pushclient.java:88) 
+<ERROR> 消息推送异常...null
+45762be5d7ccca4bd945cdd0246d9e024a30a11b97bf36d936fcf6d19f5d904a
+
+<2013-04-02 11:29:23> <main> com.client.pushclient.push(pushclient.java:83) 
+<INFO> 消息发送完成
+
+<2013-04-02 11:29:23> <main> com.client.pushclient.push(pushclient.java:83) 
+<INFO> 消息发送完成
+
+<2013-04-02 11:29:23> <main> com.client.pushclient.push(pushclient.java:83) 
+<INFO> 消息发送完成
+
+<2013-04-02 12:48:20> <main> com.client.pushclient.push(pushclient.java:86) 
+<INFO> 消息发送完成
+
+<2013-04-02 12:48:20> <main> com.client.pushclient.push(pushclient.java:86) 
+<INFO> 消息发送完成
+
+<2013-04-02 12:48:20> <main> com.client.pushclient.push(pushclient.java:86) 
+<INFO> 消息发送完成
+
+<2013-04-02 12:49:10> <main> com.client.pushclient.push(pushclient.java:86) 
+<INFO> 消息发送完成
+

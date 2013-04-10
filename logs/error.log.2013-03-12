@@ -1,0 +1,3 @@
+<2013-03-12 13:51:46> <main> com.notifation.server.SendNotifation.sendpush(SendNotifation.java:176) 
+<ERROR> 消息推送异常...Invalid keystore reference.  File does not exist: c:\Users\jyh\workspace\jinyh_dev.p12
+

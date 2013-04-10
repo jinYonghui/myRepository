@@ -1,0 +1,18 @@
+<2013-04-02 11:23:00> <main> com.client.pushclient.push(pushclient.java:88) 
+<ERROR> 消息推送异常...null
+45762be5d7ccca4bd945cdd0246d9e024a30a11b97bf36d936fcf6d19f5d904a
+
+<2013-04-02 11:23:45> <main> com.client.pushclient.push(pushclient.java:77) 
+<ERROR> 消息推送异常...null
+
+<2013-04-02 11:23:45> <main> com.client.pushclient.push(pushclient.java:77) 
+<ERROR> 消息推送异常...null
+
+<2013-04-02 11:26:34> <main> com.client.pushclient.push(pushclient.java:88) 
+<ERROR> 消息推送异常...null
+45762be5d7ccca4bd945cdd0246d9e024a30a11b97bf36d936fcf6d19f5d904a
+
+<2013-04-02 11:29:05> <main> com.client.pushclient.push(pushclient.java:88) 
+<ERROR> 消息推送异常...null
+45762be5d7ccca4bd945cdd0246d9e024a30a11b97bf36d936fcf6d19f5d904a
+
